@@ -1,0 +1,45 @@
+:root {
+    --regular-font: 'TTInterfaces-Regular';
+    --bold-font: 'TTInterfaces-Bold';
+    --medium-font: 'TTInterfaces-Medium';
+    --button-color: #C95C3F;
+    --button-hover-color: #94381e;
+    --bg-color: #fcfcfc;
+    --text-color: #1B1B1B;
+    --accent-color: #F5F5F5;
+    --white-color: #ffffff;
+    --input-border-color: #E2E1E1;
+    --text-grey: #B7B7B7;
+
+    --text-green:#114c00;
+    --button-hover-green-color: #114c00;
+    --button-gold-color:#cbad00;
+    --red-color:rgb(185, 0, 0);
+    --button-hover-blue-color: #00318d;
+    --text-white-color: rgb(255, 255, 255);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'TTInterfaces-Bold';
+    src: url('/fonts/TTInterfaces-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'TTInterfaces-Medium';
+    src: url('/fonts/TTInterfaces-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'TTInterfaces-Regular';
+    src: url('/fonts/TTInterfaces-Regular.ttf');
+}
+
+body {
+    font-family: var(--regular-font);
+}

@@ -1,0 +1,41 @@
+.form-container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap:1rem;
+}
+
+.button-form{
+
+    font-size: 24px;
+    padding: 10px 30px;
+    font-weight: 500;
+    color: var(--text-color);
+    text-decoration: none;
+    border-radius: 5px;
+
+
+}
+
+.button-form:hover {
+    background-color: var(--button-hover-blue-color);
+    color: var(--white-color);
+    border-radius: 5px;
+}
+
+.form{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap:1rem;
+    margin: 10px;
+    width:70%;
+}
+
+.input{
+width: 100%;
+background-color: #b7d0ff;
+}
+
+
+

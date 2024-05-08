@@ -1,0 +1,29 @@
+.footer-container{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap:10rem;
+    padding:50px 0px;
+    border-top: 3px solid var(--button-hover-blue-color);
+    border-left: 3px solid var(--button-hover-blue-color);
+    border-right: 3px solid var(--button-hover-blue-color);
+    background-color:#0059ffc2;
+    margin: 0px 70px;
+    margin-top: 45px;
+}
+
+.footer-text{
+font-size: 25px;
+font-style: italic;
+color: var(--text-white-color)
+}
+
+.footer-number{
+    font-size: 40px;
+}
+
+
+
+
+

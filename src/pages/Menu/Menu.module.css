@@ -1,0 +1,17 @@
+.title {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.error-load-products{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.error-name{
+    font-weight: bold;
+    border-bottom: 1px solid grey;
+    
+}

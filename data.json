@@ -1,0 +1,96 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Хорошая квартира в Одинцово",
+            "description":"Просторная студия в современном стиле с панорамными окнами и видом на городской парк.",
+            "image": "https://frankfurt.apollo.olxcdn.com/v1/files/bestogfb5rm2-KZ/image;s=2000x1335",
+            "price": 41000,
+            "flats": 3,
+            "metro": "МЦД Одинцово",
+            "like": false
+        },
+        {
+            "id": 2,
+            "title": "Новая квартира в ЦАО",
+            "description":"Уютная однокомнатная квартира в историческом центре с декоративным камином и балконом с видом на улицу.",
+            "image":"https://static.tildacdn.com/tild6463-6464-4636-b034-613933393735/IMG_4819.JPG" ,
+            "price": 74000,
+            "flats": 1,
+            "metro": "Китай-Город",
+            "like": false
+
+        },
+        {
+            "id": 3,
+            "title": "Квартира для молодежи в Чертаново",
+            "description":"Светлая двухкомнатная квартира с минималистичным дизайном и просторной кухней-гостиной для приятных посиделок с друзьями.",
+            "image": "https://avatars.mds.yandex.net/get-altay/2384989/2a00000173a532daf244946ffdd0447e4677/XXL_height",
+            "price": 43000,
+            "flats": 2,
+            "metro": "Пражская",
+            "like": true
+        },
+        {
+            "id": 4,
+            "title": "Клёвая студия в Басманном",
+            "description":"Современный лофт с высокими потолками, оформленный в индустриальном стиле с элементами старого завода.",
+            "image": "https://vann-good.ru/wp-content/uploads/a/9/5/a9526cd0e7e403e5970feae94c847a42.jpeg",
+            "price": 40000,
+            "flats": 1,
+            "metro": "Бауманская",
+            "like": false
+        },        
+        {
+            "id": 5,
+            "title": "Семейная квартира на Таганской",
+            "description":"Элегантная трехкомнатная квартира с видом на реку и просторной террасой для романтических ужинов на закате.",
+            "image":"https://cdn.inmyroom.ru/uploads/post/teaser/4a/4a00/4a001368-aea5-4b80-ac88-8c813b8e4d41.jpg" ,
+            "price": 80000,
+            "flats": 3,
+            "metro": "Таганская",
+            "like": true
+        },
+        {
+            "id": 6,
+            "title": "Необычная квартира около 'Флакона'",
+            "description":"Аутентичная четырехкомнатная квартира в историческом здании с оригинальными элементами декора и антикварной мебелью.",
+            "image": "https://amiel.club/uploads/posts/2022-09/1664455597_3-amiel-club-p-kvartira-v-temnikh-tonakh-krasivo-3.jpg",
+            "price": 115000,
+            "flats": 4,
+            "metro": "Дмитровская",
+            "like": false
+        },
+        {
+            "id": 7,
+            "title": "Редкая квартира в Кунцево",
+            "description":"Стильная квартира-студия в современном жилом комплексе с закрытым двором и детской площадкой.",
+            "image": "https://china-cosm.ru/wp-content/uploads/0/a/c/0ac2c77c722de5fa7149510bc83fd121.jpeg",
+            "price": 60000,
+            "flats": 1,
+            "metro": "Кунцевская",
+            "like": true
+        },
+        {
+            "id": 9,
+            "title": "Милая квартира в Академическом",
+            "description":"Уютная квартира с двумя спальнями и балконом, идеально подходящая для семейного отдыха с детьми.",
+            "image": "https://mykaleidoscope.ru/uploads/posts/2020-03/1583690945_6-p-stilnie-intereri-malenkikh-studii-8.jpg",
+            "price": 89000,
+            "flats": 2,
+            "metro": "Профсоюзная",
+            "like": false
+        },
+        {
+            "id": 10,
+            "title": "Приятный дом в Раменском",
+            "description":"Просторный дом с четырьмя спальнями в живописном пригороде с собственным садом и гриль-зоной для семейных посиделок на свежем воздухе.",
+            "image": "https://sauna-pod-klyuch.ru/wp-content/uploads/c/9/d/c9d66c5ecd7a5e6bcf2a91ae49ff1fdf.jpeg",
+            "price": 114000,
+            "flats": 5,
+            "metro": "МЦД Фабричная",
+            "like": true
+        }
+
+    ]
+}
