@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + JsonServer
+
+Add-on to the "skeleton" (template) of the site by https://github.com/Milrael
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
