@@ -1,7 +1,13 @@
 # React + TypeScript + Vite + JsonServer
 
-Add-on to the "skeleton" (template) of the site by https://github.com/Milrael
+- Add-on to the "skeleton" (template) of the site by https://github.com/Milrael
+- Minimum logics (hooks) for now. 
+- "Циан" the emblem was taken as an example. Copyright is reserved by the copyrightholder (Циан). It is not my property. I used it as an advertisement for this company.
 
+![Approximate landing of Apartment rental search web site - Catalog page](https://github.com/SAWINBEAST/Apartment-Rental-Search-Service/blob/main/Catalog%20page%20screen.png)
+![Approximate landing of Apartment rental search web site - main page](https://github.com/SAWINBEAST/Apartment-Rental-Search-Service/blob/main/Main%20page%20screen.png)
+
+##Also:
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
